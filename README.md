@@ -1,5 +1,5 @@
 # Mass Prediction for Electron Collison Data
-Optimising the XGBoost for Regression model on the CERN dataset for electron collisons using GridSearchCV.
+Optimising the XGBoost for Regression model on the CERN dataset for electron collisions using GridSearchCV.
  Increase in accuracy from 97.38% to 98.86% and RMSE decrease from 4.085 to 2.699 by the use of the following hyperparameters:
   - colsample_bytree: 0.7
   - learning_rate: 0.1
